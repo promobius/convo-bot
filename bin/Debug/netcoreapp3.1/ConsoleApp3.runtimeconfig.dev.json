@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\promobius\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\promobius\\.nuget\\packages"
+    ]
+  }
+}
